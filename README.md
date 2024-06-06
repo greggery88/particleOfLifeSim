@@ -1,2 +1,5 @@
 # particleOfLifeSim
-a particle of life simulator 
+a particle of life simulator in python 
+
+2d
+
